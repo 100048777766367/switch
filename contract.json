@@ -1,0 +1,13 @@
+{
+    "contract_id": "bodhi.switch.v1",
+    "identity": "100048777766367/switch",
+    "genesis_root": "100048777766367/contract",
+    "archetype": "CONVERGENT_NEXUS",
+    "role": "DYNAMIC_JUNCTION_DIVERTER",
+    "network_partners": {
+        "quarantine": "100048777766367/quarantine",
+        "verify": "100048777766367/verify",
+        "review": "100048777766367/review"
+    },
+    "io_specification": "I/O (DYNAMIC_JUNCTION_DIVERTER)"
+}
